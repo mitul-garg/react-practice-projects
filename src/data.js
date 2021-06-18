@@ -41,6 +41,18 @@ const projects = [
     title: "slider",
     url: "https://mg-react-practice-slider.netlify.app",
   },
+  {
+    id: 8,
+    image: "./images/img1.jpg",
+    title: "lorem ipsum",
+    url: "https://mg-react-practice-lorem-ipsum.netlify.app",
+  },
+  {
+    id: 9,
+    image: "./images/img2.jpg",
+    title: "color generator",
+    url: "https://mg-react-practice-color-generator.netlify.app",
+  },
 ];
 
 export default projects;
