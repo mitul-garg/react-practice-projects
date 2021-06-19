@@ -53,6 +53,12 @@ const projects = [
     title: "color generator",
     url: "https://mg-react-practice-color-generator.netlify.app",
   },
+  {
+    id: 10,
+    image: "./images/img3.jpg",
+    title: "grocery bud",
+    url: "https://mg-react-practice-grocery-bud.netlify.app",
+  },
 ];
 
 export default projects;
