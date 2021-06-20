@@ -59,6 +59,12 @@ const projects = [
     title: "grocery bud",
     url: "https://mg-react-practice-grocery-bud.netlify.app",
   },
+  {
+    id: 11,
+    image: "./images/img4.jpg",
+    title: "navbar",
+    url: "https://mg-react-practice-navbar.netlify.app",
+  },
 ];
 
 export default projects;
