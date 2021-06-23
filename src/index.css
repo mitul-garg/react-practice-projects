@@ -35,6 +35,7 @@ a {
   width: 100%;
   background-color: #1c1b29;
   border-radius: 0.7rem;
+  box-shadow: 4px 4px 2px black;
 }
 .card:hover {
   transform: scale(1.05);
