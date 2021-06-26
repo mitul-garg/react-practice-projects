@@ -74,7 +74,7 @@ const projects = [
   {
     id: 13,
     image: "./images/img6.jpg",
-    title: "navbar",
+    title: "stripe submenus",
     url: "https://mg-react-practice-stripe-submenus.netlify.app",
   },
 ];
