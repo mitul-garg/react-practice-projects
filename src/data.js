@@ -65,6 +65,18 @@ const projects = [
     title: "navbar",
     url: "https://mg-react-practice-navbar.netlify.app",
   },
+  {
+    id: 12,
+    image: "./images/img5.jpg",
+    title: "sidebar modal",
+    url: "https://mg-react-practice-sidebar-modal.netlify.app",
+  },
+  {
+    id: 13,
+    image: "./images/img6.jpg",
+    title: "navbar",
+    url: "https://mg-react-practice-stripe-submenus.netlify.app",
+  },
 ];
 
 export default projects;
