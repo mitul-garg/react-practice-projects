@@ -77,6 +77,12 @@ const projects = [
     title: "stripe submenus",
     url: "https://mg-react-practice-stripe-submenus.netlify.app",
   },
+  {
+    id: 14,
+    image: "./images/img7.jpg",
+    title: "cart",
+    url: "https://mg-react-practice-cart.netlify.app",
+  },
 ];
 
 export default projects;
