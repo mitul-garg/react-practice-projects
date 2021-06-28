@@ -83,6 +83,12 @@ const projects = [
     title: "cart",
     url: "https://mg-react-practice-cart.netlify.app",
   },
+  {
+    id: 15,
+    image: "./images/img1.jpg",
+    title: "cocktails",
+    url: "https://mg-react-practice-cocktails.netlify.app",
+  },
 ];
 
 export default projects;
